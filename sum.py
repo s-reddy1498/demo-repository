@@ -1,5 +1,5 @@
 print"Sum of two number"
 a=12
-b=13
+b=33
 sum=a+b
 print(sum)
